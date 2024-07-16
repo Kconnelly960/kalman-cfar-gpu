@@ -1,0 +1,32 @@
+Average Kernel Execution Time: .05 milliseconds
+Detailed Kernel Execution Times:
+0.057088 milliseconds
+0.06128 milliseconds
+0.068896 milliseconds
+0.057344 milliseconds
+0.057184 milliseconds
+0.059104 milliseconds
+0.055168 milliseconds
+0.056768 milliseconds
+0.074304 milliseconds
+0.059552 milliseconds
+0.060768 milliseconds
+0.062048 milliseconds
+0.060736 milliseconds
+0.061888 milliseconds
+0.058144 milliseconds
+0.073888 milliseconds
+0.061824 milliseconds
+0.074208 milliseconds
+0.055712 milliseconds
+0.051904 milliseconds
+0.05024 milliseconds
+0.050528 milliseconds
+0.051392 milliseconds
+0.050976 milliseconds
+0.050752 milliseconds
+0.050624 milliseconds
+0.05104 milliseconds
+0.050336 milliseconds
+0.052 milliseconds
+0.051552 milliseconds
